@@ -1,1 +1,1 @@
-The purpose of this tester is to learn how to host a web app on the internet!
+The purpose of this tester is to teach myself how to host a web app on the internet!
